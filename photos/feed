@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Photography	</title>
+	<atom:link href="https://jamesclear.com/photos/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.com/photos</link>
+	<description>Ideas that never expire.</description>
+	<lastBuildDate>Sun, 29 Jul 2018 15:14:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Nice Istanbul, Turkey photos &#124; istanbul Photos		</title>
+		<link>https://jamesclear.com/photos#comment-678</link>
+
+		<dc:creator><![CDATA[Nice Istanbul, Turkey photos &#124; istanbul Photos]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2013 16:21:56 +0000</pubDate>
+		<guid isPermaLink="false">https://jamesclear-com.uar9g7bv-liquidwebsites.com/?page_id=529#comment-678</guid>
+
+					<description><![CDATA[[...] Fishing the Bosphorus (Istanbul, Turkey)  Image by james_clear More photos at jamesclear-com-staging.uar9g7bv-liquidwebsites.com/photography [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Fishing the Bosphorus (Istanbul, Turkey)  Image by james_clear More photos at jamesclear-com-staging.uar9g7bv-liquidwebsites.com/photography [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
