@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Thank You	</title>
-	<atom:link href="https://jamesclear.com/thanks/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/thanks</link>
+	<atom:link href="https://jamesclear.vercel.app/thanks/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/thanks</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Wed, 23 Jan 2019 00:18:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

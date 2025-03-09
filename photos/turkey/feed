@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Turkey	</title>
-	<atom:link href="https://jamesclear.com/photos/turkey/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/photos/turkey</link>
+	<atom:link href="https://jamesclear.vercel.app/photos/turkey/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/photos/turkey</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Sat, 01 Aug 2015 16:12:27 +0000</lastBuildDate>
 	<sy:updatePeriod>

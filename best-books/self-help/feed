@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Best Self-Help Books	</title>
-	<atom:link href="https://jamesclear.com/best-books/self-help/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/best-books/self-help</link>
+	<atom:link href="https://jamesclear.vercel.app/best-books/self-help/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/best-books/self-help</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Tue, 06 Sep 2022 15:16:20 +0000</lastBuildDate>
 	<sy:updatePeriod>

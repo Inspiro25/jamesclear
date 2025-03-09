@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Atomic Habits Archives - James Clear</title>
-	<atom:link href="https://jamesclear.com/quote/atomic-habits/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/quote/atomic-habits</link>
+	<atom:link href="https://jamesclear.vercel.app/quote/atomic-habits/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/quote/atomic-habits</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Tue, 27 Jun 2023 17:20:09 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://jamesclear.com/wp-content/uploads/2020/11/cropped-icon-32x32.png</url>
+	<url>https://jamesclear.vercel.app/wp-content/uploads/2020/11/cropped-icon-32x32.png</url>
 	<title>Atomic Habits Archives - James Clear</title>
-	<link>https://jamesclear.com/quote/atomic-habits</link>
+	<link>https://jamesclear.vercel.app/quote/atomic-habits</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>“People get so caught up in the fact that they have limits that they rarely exert the effort required to get close to them.”</title>
-		<link>https://jamesclear.com/quotes/people-get-so-caught-up-in-the-fact-that-they-have-limits-that-they-rarely-exert-the-effort-required-to-get-close-to-them</link>
+		<link>https://jamesclear.vercel.app/quotes/people-get-so-caught-up-in-the-fact-that-they-have-limits-that-they-rarely-exert-the-effort-required-to-get-close-to-them</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2023 17:20:09 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45075</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45075</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -43,11 +43,11 @@
 			</item>
 		<item>
 		<title>“The work that hurts you less than it hurts others is the work you were made to do.”</title>
-		<link>https://jamesclear.com/quotes/the-work-that-hurts-you-less-than-it-hurts-others-is-the-work-you-were-made-to-do</link>
+		<link>https://jamesclear.vercel.app/quotes/the-work-that-hurts-you-less-than-it-hurts-others-is-the-work-you-were-made-to-do</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2023 17:19:35 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45072</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45072</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -57,11 +57,11 @@
 			</item>
 		<item>
 		<title>“The first mistake is never the one that ruins you. It is the spiral of repeated mistakes that follows. Missing once is an accident. Missing twice is the start of a new habit.”</title>
-		<link>https://jamesclear.com/quotes/the-first-mistake-is-never-the-one-that-ruins-you-it-is-the-spiral-of-repeated-mistakes-that-follows-missing-once-is-an-accident-missing-twice-is-the-start-of-a-new-habit</link>
+		<link>https://jamesclear.vercel.app/quotes/the-first-mistake-is-never-the-one-that-ruins-you-it-is-the-spiral-of-repeated-mistakes-that-follows-missing-once-is-an-accident-missing-twice-is-the-start-of-a-new-habit</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2023 17:18:43 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45069</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45069</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -71,11 +71,11 @@
 			</item>
 		<item>
 		<title>“Conventional wisdom holds that motivation is the key to habit change. Maybe if you really wanted it, you’d actually do it. But the truth is, our real motivation is to be lazy and to do what is convenient. And despite what the latest productivity best seller will tell you, this is a smart strategy, not a dumb one.”</title>
-		<link>https://jamesclear.com/quotes/conventional-wisdom-holds-that-motivation-is-the-key-to-habit-change-maybe-if-you-really-wanted-it-youd-actually-do-it-but-the-truth-is-our-real-motivation-is-to-be-lazy-and-to-d</link>
+		<link>https://jamesclear.vercel.app/quotes/conventional-wisdom-holds-that-motivation-is-the-key-to-habit-change-maybe-if-you-really-wanted-it-youd-actually-do-it-but-the-truth-is-our-real-motivation-is-to-be-lazy-and-to-d</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2023 17:18:08 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45066</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45066</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -85,11 +85,11 @@
 			</item>
 		<item>
 		<title>“It is easy to get bogged down trying to find the optimal plan for change: the fastest way to lose weight, the best program to build muscle, the perfect idea for a side hustle. We are so focused on figuring out the best approach that we never get around to taking action. As Voltaire once wrote, ‘The best is the enemy of the good.&#8217; “</title>
-		<link>https://jamesclear.com/quotes/it-is-easy-to-get-bogged-down-trying-to-find-the-optimal-plan-for-change-the-fastest-way-to-lose-weight-the-best-program-to-build-muscle-the-perfect-idea-for-a-side-hustle-we-are-so-focus</link>
+		<link>https://jamesclear.vercel.app/quotes/it-is-easy-to-get-bogged-down-trying-to-find-the-optimal-plan-for-change-the-fastest-way-to-lose-weight-the-best-program-to-build-muscle-the-perfect-idea-for-a-side-hustle-we-are-so-focus</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2023 17:17:23 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45063</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45063</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -99,11 +99,11 @@
 			</item>
 		<item>
 		<title>“When scientists analyze people who appear to have tremendous self-control, it turns out those individuals aren’t all that different from those who are struggling. Instead, ‘disciplined&#8217; people are better at structuring their lives in a way that does not require heroic willpower and self-control.”</title>
-		<link>https://jamesclear.com/quotes/when-scientists-analyze-people-who-appear-to-have-tremendous-self-control-it-turns-out-those-individuals-arent-all-that-different-from-those-who-are-struggling-instead-di</link>
+		<link>https://jamesclear.vercel.app/quotes/when-scientists-analyze-people-who-appear-to-have-tremendous-self-control-it-turns-out-those-individuals-arent-all-that-different-from-those-who-are-struggling-instead-di</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2023 17:16:42 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45060</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45060</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -113,11 +113,11 @@
 			</item>
 		<item>
 		<title>“Some people spend their entire lives waiting for the time to be right to make an improvement.”</title>
-		<link>https://jamesclear.com/quotes/some-people-spend-their-entire-lives-waiting-for-the-time-to-be-right-to-make-an-improvement</link>
+		<link>https://jamesclear.vercel.app/quotes/some-people-spend-their-entire-lives-waiting-for-the-time-to-be-right-to-make-an-improvement</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2023 17:16:03 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45057</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45057</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -127,11 +127,11 @@
 			</item>
 		<item>
 		<title>“Whenever you want to change your behavior, you can simply ask yourself: How can I make it obvious? How can I make it attractive? How can I make it easy? How can I make it satisfying?”</title>
-		<link>https://jamesclear.com/quotes/whenever-you-want-to-change-your-behavior-you-can-simply-ask-yourself-how-can-i-make-it-obvious-how-can-i-make-it-attractive-how-can-i-make-it-easy-how-can-i-make-it-satisfying</link>
+		<link>https://jamesclear.vercel.app/quotes/whenever-you-want-to-change-your-behavior-you-can-simply-ask-yourself-how-can-i-make-it-obvious-how-can-i-make-it-attractive-how-can-i-make-it-easy-how-can-i-make-it-satisfying</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2023 17:15:28 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45054</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45054</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -141,11 +141,11 @@
 			</item>
 		<item>
 		<title>“Over the long run, however, the real reason you fail to stick with habits is that your self-image gets in the way. This is why you can’t get too attached to one version of your identity. Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.”</title>
-		<link>https://jamesclear.com/quotes/over-the-long-run-however-the-real-reason-you-fail-to-stick-with-habits-is-that-your-self-image-gets-in-the-way-this-is-why-you-cant-get-too-attached-to-one-version-of-your-identi</link>
+		<link>https://jamesclear.vercel.app/quotes/over-the-long-run-however-the-real-reason-you-fail-to-stick-with-habits-is-that-your-self-image-gets-in-the-way-this-is-why-you-cant-get-too-attached-to-one-version-of-your-identi</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2023 17:14:50 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45051</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45051</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -155,11 +155,11 @@
 			</item>
 		<item>
 		<title>“It’s hard to change your habits if you never change the underlying beliefs that led to your past behavior. You have a new goal and a new plan, but you haven’t changed who you are.”</title>
-		<link>https://jamesclear.com/quotes/its-hard-to-change-your-habits-if-you-never-change-the-underlying-beliefs-that-led-to-your-past-behavior-you-have-a-new-goal-and-a-new-plan-but-you-havent-changed-who-you</link>
+		<link>https://jamesclear.vercel.app/quotes/its-hard-to-change-your-habits-if-you-never-change-the-underlying-beliefs-that-led-to-your-past-behavior-you-have-a-new-goal-and-a-new-plan-but-you-havent-changed-who-you</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2023 17:14:18 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45048</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45048</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Scotland	</title>
-	<atom:link href="https://jamesclear.com/photos/scotland/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/photos/scotland</link>
+	<atom:link href="https://jamesclear.vercel.app/photos/scotland/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/photos/scotland</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Sat, 01 Aug 2015 16:12:42 +0000</lastBuildDate>
 	<sy:updatePeriod>

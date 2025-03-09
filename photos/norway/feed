@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Norway	</title>
-	<atom:link href="https://jamesclear.com/photos/norway/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/photos/norway</link>
+	<atom:link href="https://jamesclear.vercel.app/photos/norway/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/photos/norway</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Sat, 01 Aug 2015 16:13:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

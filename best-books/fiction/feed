@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Best Fiction Books	</title>
-	<atom:link href="https://jamesclear.com/best-books/fiction/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/best-books/fiction</link>
+	<atom:link href="https://jamesclear.vercel.app/best-books/fiction/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/best-books/fiction</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Wed, 11 Nov 2020 18:31:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Photo Essay: The Isle of Skye, Scotland	</title>
-	<atom:link href="https://jamesclear.com/photo-essay-skye/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/photo-essay-skye</link>
+	<atom:link href="https://jamesclear.vercel.app/photo-essay-skye/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/photo-essay-skye</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Mon, 04 Jun 2018 04:02:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: Joan		</title>
-		<link>https://jamesclear.com/photo-essay-skye#comment-12883</link>
+		<link>https://jamesclear.vercel.app/photo-essay-skye#comment-12883</link>
 
 		<dc:creator><![CDATA[Joan]]></dc:creator>
 		<pubDate>Wed, 12 Nov 2014 06:52:45 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		By: Steven		</title>
-		<link>https://jamesclear.com/photo-essay-skye#comment-11896</link>
+		<link>https://jamesclear.vercel.app/photo-essay-skye#comment-11896</link>
 
 		<dc:creator><![CDATA[Steven]]></dc:creator>
 		<pubDate>Mon, 13 Oct 2014 19:10:13 +0000</pubDate>
@@ -48,7 +48,7 @@
 		<item>
 		<title>
 		By: Heather Longoria		</title>
-		<link>https://jamesclear.com/photo-essay-skye#comment-11890</link>
+		<link>https://jamesclear.vercel.app/photo-essay-skye#comment-11890</link>
 
 		<dc:creator><![CDATA[Heather Longoria]]></dc:creator>
 		<pubDate>Mon, 13 Oct 2014 10:28:24 +0000</pubDate>
@@ -62,7 +62,7 @@
 		<item>
 		<title>
 		By: Kristian Skovgaard		</title>
-		<link>https://jamesclear.com/photo-essay-skye#comment-11876</link>
+		<link>https://jamesclear.vercel.app/photo-essay-skye#comment-11876</link>
 
 		<dc:creator><![CDATA[Kristian Skovgaard]]></dc:creator>
 		<pubDate>Sun, 12 Oct 2014 09:29:46 +0000</pubDate>
@@ -76,7 +76,7 @@
 		<item>
 		<title>
 		By: Maria		</title>
-		<link>https://jamesclear.com/photo-essay-skye#comment-11760</link>
+		<link>https://jamesclear.vercel.app/photo-essay-skye#comment-11760</link>
 
 		<dc:creator><![CDATA[Maria]]></dc:creator>
 		<pubDate>Sun, 05 Oct 2014 10:37:24 +0000</pubDate>
@@ -90,7 +90,7 @@
 		<item>
 		<title>
 		By: Christopher		</title>
-		<link>https://jamesclear.com/photo-essay-skye#comment-11720</link>
+		<link>https://jamesclear.vercel.app/photo-essay-skye#comment-11720</link>
 
 		<dc:creator><![CDATA[Christopher]]></dc:creator>
 		<pubDate>Tue, 30 Sep 2014 22:32:19 +0000</pubDate>
@@ -104,7 +104,7 @@
 		<item>
 		<title>
 		By: Jeroen		</title>
-		<link>https://jamesclear.com/photo-essay-skye#comment-11613</link>
+		<link>https://jamesclear.vercel.app/photo-essay-skye#comment-11613</link>
 
 		<dc:creator><![CDATA[Jeroen]]></dc:creator>
 		<pubDate>Thu, 25 Sep 2014 08:01:57 +0000</pubDate>
@@ -118,7 +118,7 @@
 		<item>
 		<title>
 		By: Kapa		</title>
-		<link>https://jamesclear.com/photo-essay-skye#comment-11540</link>
+		<link>https://jamesclear.vercel.app/photo-essay-skye#comment-11540</link>
 
 		<dc:creator><![CDATA[Kapa]]></dc:creator>
 		<pubDate>Mon, 22 Sep 2014 07:24:21 +0000</pubDate>
@@ -132,7 +132,7 @@
 		<item>
 		<title>
 		By: Peter Chabanowich		</title>
-		<link>https://jamesclear.com/photo-essay-skye#comment-11539</link>
+		<link>https://jamesclear.vercel.app/photo-essay-skye#comment-11539</link>
 
 		<dc:creator><![CDATA[Peter Chabanowich]]></dc:creator>
 		<pubDate>Sat, 20 Sep 2014 16:50:25 +0000</pubDate>
@@ -146,7 +146,7 @@
 		<item>
 		<title>
 		By: Joy		</title>
-		<link>https://jamesclear.com/photo-essay-skye#comment-11532</link>
+		<link>https://jamesclear.vercel.app/photo-essay-skye#comment-11532</link>
 
 		<dc:creator><![CDATA[Joy]]></dc:creator>
 		<pubDate>Fri, 19 Sep 2014 14:00:49 +0000</pubDate>

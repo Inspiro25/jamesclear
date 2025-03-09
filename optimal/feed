@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: The Power of Imperfect Starts	</title>
-	<atom:link href="https://jamesclear.com/optimal/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/optimal</link>
+	<atom:link href="https://jamesclear.vercel.app/optimal/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/optimal</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Tue, 04 Feb 2020 02:18:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: Launch. Assess. Optimize. Repeat. &#124; thedaychronicles		</title>
-		<link>https://jamesclear.com/optimal#comment-7845</link>
+		<link>https://jamesclear.vercel.app/optimal#comment-7845</link>
 
 		<dc:creator><![CDATA[Launch. Assess. Optimize. Repeat. &#124; thedaychronicles]]></dc:creator>
 		<pubDate>Tue, 11 Mar 2014 16:55:48 +0000</pubDate>

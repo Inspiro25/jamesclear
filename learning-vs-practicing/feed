@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Stop Thinking and Start Doing: The Power of Practicing More	</title>
-	<atom:link href="https://jamesclear.com/learning-vs-practicing/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/learning-vs-practicing</link>
+	<atom:link href="https://jamesclear.vercel.app/learning-vs-practicing/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/learning-vs-practicing</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Tue, 04 Feb 2020 01:29:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

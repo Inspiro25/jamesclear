@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Deep Archives - James Clear</title>
-	<atom:link href="https://jamesclear.com/quote/deep/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/quote/deep</link>
+	<atom:link href="https://jamesclear.vercel.app/quote/deep/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/quote/deep</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Thu, 07 Nov 2024 18:25:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://jamesclear.com/wp-content/uploads/2020/11/cropped-icon-32x32.png</url>
+	<url>https://jamesclear.vercel.app/wp-content/uploads/2020/11/cropped-icon-32x32.png</url>
 	<title>Deep Archives - James Clear</title>
-	<link>https://jamesclear.com/quote/deep</link>
+	<link>https://jamesclear.vercel.app/quote/deep</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>&#8220;Anger is like an oven; heat without light.Forgiveness is like the moon; light without heat.&#8221;</title>
-		<link>https://jamesclear.com/quotes/anger-is-like-an-oven</link>
+		<link>https://jamesclear.vercel.app/quotes/anger-is-like-an-oven</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Thu, 07 Nov 2024 17:43:01 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=46523</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=46523</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -43,11 +43,11 @@
 			</item>
 		<item>
 		<title>The secret is not to find the meaning of life, but to use your life to make things that are meaningful.</title>
-		<link>https://jamesclear.com/quotes/the-secret-is-not-to-find-the-meaning-of-life-but-to-use-your-life-to-make-things-that-are-meaningful</link>
+		<link>https://jamesclear.vercel.app/quotes/the-secret-is-not-to-find-the-meaning-of-life-but-to-use-your-life-to-make-things-that-are-meaningful</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Thu, 22 Feb 2024 15:21:12 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45824</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45824</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -57,11 +57,11 @@
 			</item>
 		<item>
 		<title>new goals</title>
-		<link>https://jamesclear.com/quotes/new-goals</link>
+		<link>https://jamesclear.vercel.app/quotes/new-goals</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Thu, 04 Jan 2024 19:43:17 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45679</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45679</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -71,11 +71,11 @@
 			</item>
 		<item>
 		<title>“The information you consume each day is the soil from which your future thoughts grow.”</title>
-		<link>https://jamesclear.com/quotes/the-information-you-consume-each-day-is-the-soil-from-which-your-future-thoughts-grow</link>
+		<link>https://jamesclear.vercel.app/quotes/the-information-you-consume-each-day-is-the-soil-from-which-your-future-thoughts-grow</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Thu, 21 Dec 2023 19:59:00 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45701</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45701</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -85,11 +85,11 @@
 			</item>
 		<item>
 		<title>unity</title>
-		<link>https://jamesclear.com/quotes/unity</link>
+		<link>https://jamesclear.vercel.app/quotes/unity</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 04:00:53 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45529</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45529</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -99,11 +99,11 @@
 			</item>
 		<item>
 		<title>self-esteem</title>
-		<link>https://jamesclear.com/quotes/self-esteem-2</link>
+		<link>https://jamesclear.vercel.app/quotes/self-esteem-2</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 03:58:56 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45528</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45528</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -113,11 +113,11 @@
 			</item>
 		<item>
 		<title>Some lessons have to be experienced to be learned.</title>
-		<link>https://jamesclear.com/quotes/some-lessons-have-to-be-experienced-to-be-learned</link>
+		<link>https://jamesclear.vercel.app/quotes/some-lessons-have-to-be-experienced-to-be-learned</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Thu, 31 Aug 2023 16:04:06 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45391</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45391</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -127,11 +127,11 @@
 			</item>
 		<item>
 		<title>People often think that something &#8220;far off&#8221; will make them happy. That moving to a new place or getting a different job or meeting someone new will change how they feel. But happiness will always be withheld if you believe it is somewhere else. The secret is to find happiness in the people and places that are close to you. See the beauty in the things that are nearby.</title>
-		<link>https://jamesclear.com/quotes/people-often-think-that-something-far-off-will-make-them-happy-that-moving-to-a-new-place-or-getting-a-different-job-or-meeting-someone-new-will-change-how-they-feel-but-happiness-will-always-be</link>
+		<link>https://jamesclear.vercel.app/quotes/people-often-think-that-something-far-off-will-make-them-happy-that-moving-to-a-new-place-or-getting-a-different-job-or-meeting-someone-new-will-change-how-they-feel-but-happiness-will-always-be</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Thu, 31 Aug 2023 13:52:39 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45382</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45382</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -141,11 +141,11 @@
 			</item>
 		<item>
 		<title>“Anxiety is thought without control.</title>
-		<link>https://jamesclear.com/quotes/anxiety-is-thought-without-control</link>
+		<link>https://jamesclear.vercel.app/quotes/anxiety-is-thought-without-control</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Thu, 27 Jul 2023 15:40:00 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45308</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45308</guid>
 
 					<description><![CDATA[Flow is control without thought.”]]></description>
 										<content:encoded><![CDATA[
@@ -157,11 +157,11 @@
 			</item>
 		<item>
 		<title>One sign you haven’t done enough reading is if you find yourself agreeing with whatever book you read last. At first, it’s easy to be swayed by any reasonable argument. Once you’ve read a lot, you can see that even the best arguments have limitations.</title>
-		<link>https://jamesclear.com/quotes/one-sign-you-havent-done-enough-reading-is-if-you-find-yourself-agreeing-with-whatever-book-you-read-last-at-first-its-easy-to-be-swayed-by-any-reasonable-argument-once-you</link>
+		<link>https://jamesclear.vercel.app/quotes/one-sign-you-havent-done-enough-reading-is-if-you-find-yourself-agreeing-with-whatever-book-you-read-last-at-first-its-easy-to-be-swayed-by-any-reasonable-argument-once-you</link>
 		
 		<dc:creator><![CDATA[James Clear]]></dc:creator>
 		<pubDate>Thu, 27 Jul 2023 15:38:00 +0000</pubDate>
-				<guid isPermaLink="false">https://jamesclear.com/?post_type=quotes&#038;p=45305</guid>
+				<guid isPermaLink="false">https://jamesclear.vercel.app/?post_type=quotes&#038;p=45305</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

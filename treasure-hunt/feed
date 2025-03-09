@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: The Goal is Not the Point	</title>
-	<atom:link href="https://jamesclear.com/treasure-hunt/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/treasure-hunt</link>
+	<atom:link href="https://jamesclear.vercel.app/treasure-hunt/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/treasure-hunt</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Thu, 14 Jun 2018 17:50:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

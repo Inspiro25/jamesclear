@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Best Nonfiction Books	</title>
-	<atom:link href="https://jamesclear.com/best-books/nonfiction/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/best-books/nonfiction</link>
+	<atom:link href="https://jamesclear.vercel.app/best-books/nonfiction/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/best-books/nonfiction</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Thu, 02 Jun 2022 21:12:35 +0000</lastBuildDate>
 	<sy:updatePeriod>

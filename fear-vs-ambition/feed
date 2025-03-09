@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Fear vs. Ambition	</title>
-	<atom:link href="https://jamesclear.com/fear-vs-ambition/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/fear-vs-ambition</link>
+	<atom:link href="https://jamesclear.vercel.app/fear-vs-ambition/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/fear-vs-ambition</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Thu, 14 Jun 2018 18:40:58 +0000</lastBuildDate>
 	<sy:updatePeriod>

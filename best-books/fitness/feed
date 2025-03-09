@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Best Fitness Books	</title>
-	<atom:link href="https://jamesclear.com/best-books/fitness/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/best-books/fitness</link>
+	<atom:link href="https://jamesclear.vercel.app/best-books/fitness/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/best-books/fitness</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Wed, 11 Nov 2020 19:44:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

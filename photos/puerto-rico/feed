@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Puerto Rico	</title>
-	<atom:link href="https://jamesclear.com/photos/puerto-rico/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/photos/puerto-rico</link>
+	<atom:link href="https://jamesclear.vercel.app/photos/puerto-rico/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/photos/puerto-rico</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Sat, 01 Aug 2015 16:12:56 +0000</lastBuildDate>
 	<sy:updatePeriod>

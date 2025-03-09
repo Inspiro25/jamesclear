@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Best Business Books	</title>
-	<atom:link href="https://jamesclear.com/best-books/business/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/best-books/business</link>
+	<atom:link href="https://jamesclear.vercel.app/best-books/business/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/best-books/business</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Wed, 11 Nov 2020 19:36:25 +0000</lastBuildDate>
 	<sy:updatePeriod>

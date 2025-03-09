@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Why Stores Place Candy by the Checkout Counter (And Why New Habits Fail)	</title>
-	<atom:link href="https://jamesclear.com/candy-checkout/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/candy-checkout</link>
+	<atom:link href="https://jamesclear.vercel.app/candy-checkout/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/candy-checkout</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Fri, 13 Jul 2018 21:05:51 +0000</lastBuildDate>
 	<sy:updatePeriod>

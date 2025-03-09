@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Contact James Clear	</title>
-	<atom:link href="https://jamesclear.com/contact/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/contact</link>
+	<atom:link href="https://jamesclear.vercel.app/contact/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/contact</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Fri, 01 Dec 2023 14:34:43 +0000</lastBuildDate>
 	<sy:updatePeriod>

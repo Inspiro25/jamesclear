@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Best Philosophy Books	</title>
-	<atom:link href="https://jamesclear.com/best-books/philosophy/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/best-books/philosophy</link>
+	<atom:link href="https://jamesclear.vercel.app/best-books/philosophy/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/best-books/philosophy</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Wed, 11 Nov 2020 20:24:12 +0000</lastBuildDate>
 	<sy:updatePeriod>

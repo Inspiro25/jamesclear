@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: The Beginner&#8217;s Guide to Strength Training	</title>
-	<atom:link href="https://jamesclear.com/strength-training/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/strength-training</link>
+	<atom:link href="https://jamesclear.vercel.app/strength-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/strength-training</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Wed, 31 Aug 2022 21:32:57 +0000</lastBuildDate>
 	<sy:updatePeriod>

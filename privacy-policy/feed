@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Earnings Disclaimer and Privacy Policy	</title>
-	<atom:link href="https://jamesclear.com/privacy-policy/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/privacy-policy</link>
+	<atom:link href="https://jamesclear.vercel.app/privacy-policy/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/privacy-policy</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Tue, 30 May 2023 16:12:34 +0000</lastBuildDate>
 	<sy:updatePeriod>

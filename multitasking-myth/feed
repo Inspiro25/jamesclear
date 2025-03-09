@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: The Myth of Multitasking: Why Fewer Priorities Leads to Better Work	</title>
-	<atom:link href="https://jamesclear.com/multitasking-myth/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/multitasking-myth</link>
+	<atom:link href="https://jamesclear.vercel.app/multitasking-myth/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/multitasking-myth</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Tue, 04 Feb 2020 01:30:21 +0000</lastBuildDate>
 	<sy:updatePeriod>

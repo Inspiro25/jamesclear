@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Best Novels of All-Time	</title>
-	<atom:link href="https://jamesclear.com/best-books/novels/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/best-books/novels</link>
+	<atom:link href="https://jamesclear.vercel.app/best-books/novels/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/best-books/novels</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Mon, 29 Mar 2021 20:51:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

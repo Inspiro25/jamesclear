@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: About James Clear	</title>
-	<atom:link href="https://jamesclear.com/about/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/about</link>
+	<atom:link href="https://jamesclear.vercel.app/about/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/about</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Wed, 12 Jun 2024 17:46:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: &#8220;How to Stay Focused When Working on Your Goals Gets Boring&#8221; &#124; Extraordinary Living Blogs		</title>
-		<link>https://jamesclear.com/about#comment-4102</link>
+		<link>https://jamesclear.vercel.app/about#comment-4102</link>
 
 		<dc:creator><![CDATA[&#8220;How to Stay Focused When Working on Your Goals Gets Boring&#8221; &#124; Extraordinary Living Blogs]]></dc:creator>
 		<pubDate>Mon, 07 Oct 2013 04:34:07 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		By: Insta-Travel to Istanbul, Turkey &#124; Voyage Lusting		</title>
-		<link>https://jamesclear.com/about#comment-59</link>
+		<link>https://jamesclear.vercel.app/about#comment-59</link>
 
 		<dc:creator><![CDATA[Insta-Travel to Istanbul, Turkey &#124; Voyage Lusting]]></dc:creator>
 		<pubDate>Fri, 07 Dec 2012 19:21:15 +0000</pubDate>

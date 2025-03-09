@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: 5 Lessons on Being Wrong	</title>
-	<atom:link href="https://jamesclear.com/first-choice/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/first-choice</link>
+	<atom:link href="https://jamesclear.vercel.app/first-choice/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/first-choice</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Mon, 19 Apr 2021 21:05:21 +0000</lastBuildDate>
 	<sy:updatePeriod>

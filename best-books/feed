@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: The Best Books: Recommended Reading List	</title>
-	<atom:link href="https://jamesclear.com/best-books/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/best-books</link>
+	<atom:link href="https://jamesclear.vercel.app/best-books/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/best-books</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Thu, 04 May 2023 15:32:38 +0000</lastBuildDate>
 	<sy:updatePeriod>

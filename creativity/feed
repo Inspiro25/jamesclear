@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Creativity: How to Unlock Your Hidden Creative Genius	</title>
-	<atom:link href="https://jamesclear.com/creativity/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/creativity</link>
+	<atom:link href="https://jamesclear.vercel.app/creativity/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/creativity</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Wed, 31 Aug 2022 20:35:49 +0000</lastBuildDate>
 	<sy:updatePeriod>

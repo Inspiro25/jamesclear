@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Photography	</title>
-	<atom:link href="https://jamesclear.com/photos/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/photos</link>
+	<atom:link href="https://jamesclear.vercel.app/photos/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/photos</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Sun, 29 Jul 2018 15:14:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: Nice Istanbul, Turkey photos &#124; istanbul Photos		</title>
-		<link>https://jamesclear.com/photos#comment-678</link>
+		<link>https://jamesclear.vercel.app/photos#comment-678</link>
 
 		<dc:creator><![CDATA[Nice Istanbul, Turkey photos &#124; istanbul Photos]]></dc:creator>
 		<pubDate>Tue, 02 Apr 2013 16:21:56 +0000</pubDate>

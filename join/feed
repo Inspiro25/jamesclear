@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Join the Email Newsletter	</title>
-	<atom:link href="https://jamesclear.com/join/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/join</link>
+	<atom:link href="https://jamesclear.vercel.app/join/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/join</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Fri, 26 Oct 2018 14:36:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

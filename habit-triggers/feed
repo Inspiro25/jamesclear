@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: The 5 Triggers That Make New Habits Stick	</title>
-	<atom:link href="https://jamesclear.com/habit-triggers/feed" rel="self" type="application/rss+xml" />
-	<link>https://jamesclear.com/habit-triggers</link>
+	<atom:link href="https://jamesclear.vercel.app/habit-triggers/feed" rel="self" type="application/rss+xml" />
+	<link>https://jamesclear.vercel.app/habit-triggers</link>
 	<description>Ideas that never expire.</description>
 	<lastBuildDate>Tue, 13 Nov 2018 15:40:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
